@@ -1,0 +1,30 @@
+{
+  "name": "lambda-simple-response",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=4.3"
+  },
+  "main": "index.js",
+  "description": "simple response for lambda with logging",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/classtinginc/lambda-simple-response.git"
+  },
+  "author": {
+    "name": "Jaesang Yoo",
+    "email": "jsyoo84@gmail.com"
+  },
+  "keywords": [
+    "lambda",
+    "aws-lambda",
+    "response",
+    "simple-response",
+    "utility",
+    "aws"
+  ],
+  "bugs": {
+    "url": "https://github.com/classtinginc/lambda-simple-response/issues",
+    "email": "jsyoo@classting.com"
+  },
+  "license": "MIT"
+}
